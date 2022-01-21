@@ -1,0 +1,21 @@
+body {
+  background: #272727;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.main .main__paragraph {
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.main .main__paragraph:hover {
+  color: pink;
+  cursor: pointer;
+}
+/*# sourceMappingURL=main.css.map */
